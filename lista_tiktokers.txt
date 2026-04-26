@@ -5,7 +5,7 @@ johansitosw, 3
 samuelallen5734, 2
 johandry_mj, 2
 ejxsuslan, 2
-pau.saman, 2
+pau.saman, 10
 johanlivex, 6
 andr19695, 3
 simoncontrerassan, 3
@@ -37,6 +37,7 @@ rony.jr17, 4
 daniels0911glop, 4
 santi_vivas10, 5
 elespiritudelapaja, 6
+gomelooo3, 6
 angelalbornoz74, 6
 eidrianbarrios947, 6
 anth_juguito1,6
@@ -50,7 +51,7 @@ luisalejandro_617, 7
 aiverdiaz, 7 
 deningergabriel, 7
 adriancueva25, 7
-elflacodeoro50, 7
+elflacodeoro50, 3
 
 # SECUNDARIOS
 akentv, 10

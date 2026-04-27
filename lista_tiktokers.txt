@@ -55,6 +55,7 @@ elflacodeoro50, 3
 
 # SECUNDARIOS
 akentv, 10
+edcantillo, 8
 imelijosh, 10
 gaboj29, 10
 davisitojf, 10

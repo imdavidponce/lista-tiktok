@@ -65,8 +65,6 @@ aiverdiaz
 deningergabriel
 adriancueva25
 elflacodeoro50
-
-# SECUNDARIOS
 akentv
 edcantillo
 imelijosh
@@ -88,3 +86,4 @@ angeloazzollini
 renevisual
 dojex_x
 jhonnyleonrosa
+.angel0204
